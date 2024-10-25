@@ -1,5 +1,5 @@
 # Image-Compression
-# Potoceanu Ana-Maria
+
 ## Tema 2, Metode numerice  
 
 ### Task 1 
